@@ -1,0 +1,13 @@
+word_list=[
+    "apple",
+    "orange",
+    "peach",
+    "lemon",
+    "banana",
+    "papaya",
+    "grapes",
+    "jackfruit",
+    "watermelon",
+    "apricot",
+    "mango",
+    "cherry"]
